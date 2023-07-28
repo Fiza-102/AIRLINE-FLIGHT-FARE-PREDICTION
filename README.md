@@ -54,5 +54,5 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import RandomizedSearchCV
 ```
 ## Results
-I have done a complete EDA process, getting data insights, feature engineering, and data visualization as well so after all these steps I can go for the prediction using machine learning model-making steps.
+I have done a complete EDA process, getting data insights, feature engineering, and data visualization as well so after all these steps I can go for the prediction using machine learning model-making steps, here I have used RandomizedSearchCV for prediction.
 
